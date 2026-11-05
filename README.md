@@ -7,7 +7,7 @@ It helps users save time, improve productivity, and never miss important discuss
 
 Click the play below to watch the full demo of MeetMind AI 👇
 
-[https://github.com/user-attachments/assets/de5f8484-3048-44eb-ad5b-0920a6ecb68c](https://github.com/user-attachments/assets/de5f8484-3048-44eb-ad5b-0920a6ecb68c)
+https://github.com/user-attachments/assets/de5f8484-3048-44eb-ad5b-0920a6ecb68c
 
 
 📱 Features & Screens
