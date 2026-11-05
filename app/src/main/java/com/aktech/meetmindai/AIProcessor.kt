@@ -13,7 +13,7 @@ class AIProcessor {
 
     private val client = OkHttpClient()
 
-    private val API_KEY = "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"
+    private val API_KEY = ""
     private val API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
     interface AIResponseCallback {
