@@ -5,7 +5,7 @@ It helps users save time, improve productivity, and never miss important discuss
 
 🎥 Demo Video
 
-Click the play below to watch the full demo of MeetMind AI 👇
+Watch the complete working demonstration of MeetMind AI, including meeting recording, live transcription, AI-powered summaries, and meeting history.
 
 https://github.com/user-attachments/assets/de5f8484-3048-44eb-ad5b-0920a6ecb68c
 
