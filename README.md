@@ -111,7 +111,7 @@ ABES Engineering College, Ghaziabad
 
 📧 Email: akashsolanki926@gmail.com
 
-🔗 GitHub: https://github.com/AkashSolanki1/Meet-Mind-AI/
+🔗 GitHub: https://github.com/AkashSolanki1/MeetMind-AI/
 
 🔗 LinkedIn: https://www.linkedin.com/in/akashsolanki1/
 
